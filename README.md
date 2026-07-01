@@ -1,4 +1,5 @@
 # mario_grid_project
+-A ML priject-
 An agent inside a mario grid space, getting trained with three algorithms:
 1. SARSA
 2. Expected_SARSA
