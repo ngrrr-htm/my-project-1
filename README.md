@@ -1,4 +1,8 @@
-# my-project-1
-A simple rule-based agent navigating a grid world environment.
-'a robot vs block code
-the robot only moves to the right and down in order to find the exit'
+# mario_grid_project
+An agent inside a mario grid space, getting trained with three algorithms:
+1. SARSA
+2. Expected_SARSA
+3. Q_Learning
+
+the goal is to find out with training algorithm works best for our grid (which is set in this code, but can be random)
+the analysis, containing plot images and explainations is included.
