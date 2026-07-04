@@ -10,11 +10,11 @@ Algorithms:
 - Q_Learning
 
 Project structure:
--main.py               (Entry point)
--environment.py        (Mario Grid environment)
--SARSA.py              (SARSA implementation)
--Expected_SARSA.py     (Expected SARSA implementation)
--QLearning.py          (Q-Learning implementation)
+- main.py               (Entry point)
+- environment.py        (Mario Grid environment)
+- SARSA.py              (SARSA implementation)
+- Expected_SARSA.py     (Expected SARSA implementation)
+- QLearning.py          (Q-Learning implementation)
 
 Results:
 The repository includes an analysis of the training results, along with plots comparing the performance of each algorithm.
